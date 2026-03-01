@@ -1,0 +1,20 @@
+# Dataset files (too large for GitHub)
+tutorials/img_cls/data/
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# Model weights & training outputs
+*.pt
+*.pth
+*.h5
+saved_model*/
+results_*/
